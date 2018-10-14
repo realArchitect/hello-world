@@ -1,2 +1,2 @@
 # hello-world
-Hello World Repository
+Just another techy trying to navigate the big bad world of coding!
